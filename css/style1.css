@@ -1,0 +1,15 @@
+*{margin: 0px; padding: 0px; box-sizing: border-box;}
+.container{height: 800px; width: 100%; background: black;}
+.top{height: 75px; width: 100%; background: darkred; 
+    font-size: 50px; text-align: center; color: aliceblue; font-family: 'Arial Narrow'; }
+.header{height:150px; width: 100%; background: darkblue;
+    font-size: 50px; text-align: center; color: aliceblue; font-family: 'Arial Narrow'; }
+.center{height: 500px; width: 100%; }
+.content{height: 500px; width: 60%; background: rgb(6, 218, 6) ; float: left;
+    font-size: 50px; text-align: center; color: aliceblue; font-family: 'Arial Narrow'; }
+.sidebar{height: 500px; width: 40%; background: rgb(3, 54, 3); float: right;
+    font-size: 50px; text-align: center; color: aliceblue; font-family: 'Arial Narrow'; }
+.footer{height: 75px; width: 100%; background: red;
+    font-size: 50px; text-align: center; color: aliceblue; font-family: 'Arial Narrow'; }
+
+.wrapper{height: 800px; width: 80%; margin: 0px 10%; background: black;}
