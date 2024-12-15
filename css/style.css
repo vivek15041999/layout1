@@ -1,0 +1,10 @@
+*{margin: 0px; padding: 0px; box-sizing: border-box;}
+.container{height: 700px; width: 100%; background: whitesmoke;}
+.header{height: 150px; width: 100%;background: red;}
+.center{height: 500px; width: 100%; }
+.left,.middle,.right{height: 500px; width: 33.33%; float: left; border: solid white;}
+.left{background: yellow;}
+.middle{background: darkgreen;}
+.right{background: greenyellow;}
+
+.footer{height: 150px; width: 100%; background: grey;}
