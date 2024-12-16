@@ -1,0 +1,25 @@
+*{margin: 0px; padding: 0px; box-sizing: border-box;}
+
+.container{height: 1000px; width: 100%; background: black; ;}
+.header{height: 150px; width: 100%;}
+.logo{height: 150px; width: 20%; background: red; float: left;
+ font-size: 40px; color: white; text-align: center; padding-top: 50px;}
+.title{height: 150px; width: 80%; background: darkgreen; float: right;
+    font-size: 40px; color: white; text-align: center; padding-top: 50px;}
+.menu{height: 100px; width: 100%; background: yellow;
+    font-size: 40px; color: white; text-align: center; padding-top: 50px;}
+.section{height: 150px; width: 100%;}
+.section1,.section2,.section3{height: 150px; width: 33.33%; float: left;
+    font-size: 40px; color: white; text-align: center; padding-top: 50px;}
+.section1{background: blue;}
+.section2{background: black;}
+.section3{background: pink;}
+.center{height: 500px; width: 100%;}
+.page{height: 500px; width: 80%; background: green; float: left;
+    font-size: 40px; color: white; text-align: center; padding-top: 50px;}
+.rightpage{height: 500px; width: 20%; float: right; background: rgb(7, 34, 7);
+    font-size: 40px; color: white; text-align: center; padding-top: 50px;}
+.footer{height: 100px; width: 100%; background-color: blue;
+    font-size: 40px; color: white; text-align: center; padding-top: 50px;}
+
+.wrapper{height: 1000px; width: 70%; margin: 5px 15%; background: black; outline: 5px solid white;}
